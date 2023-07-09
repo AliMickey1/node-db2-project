@@ -1,3 +1,4 @@
+// // Update with your config settings.
 // no need to change this file
 const sharedConfig = {
   client: 'sqlite3',
